@@ -6,7 +6,7 @@ export interface ActiveSubscriptions {
 }
 
 export const defaultActiveSubscriptions: ActiveSubscriptions = {
-    RMP_CLOUD: false,
+    RMP_CLOUD: true,
     RMP_EXPORT: false,
 };
 
